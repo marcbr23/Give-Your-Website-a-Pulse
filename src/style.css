@@ -66,9 +66,25 @@ p  {
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 860px) {
   body::before,
-  body::after {
+  body::after, 
+  .rocket {
     display: none;
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+
+  p {
+    font-size: large;
+    padding-top: 4%;
+  }
+
+  .media {
+    text-align: center;
+    height: auto;
+    width: 500px;
   }
 }
