@@ -1,6 +1,6 @@
 # MBR's Custom NASA APOD
 
-Made for Stardance's mission "Give Your Website a Pulse" using its guide. Custom page for the NASA APOD. Made using VITE
+Made for Stardance's mission "Give Your Website a Pulse" using its guide. Custom page for the NASA APOD. Made using VITE.
 
 https://marcbr23.github.io/Give-Your-Website-a-Pulse/
 
